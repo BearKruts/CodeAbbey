@@ -53,6 +53,15 @@ Several triplets of numbers are given to you. Your task is to select minimum amo
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/MinimumOfThree.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/rounding">Problem 6</a>: Rounding</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+There are several pairs of numbers. For each pair you are to divide first by second and return the result, rounded to nearest integer.
+In cases, when result contains exactly 0.5 as a fraction part, value should be rounded up.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Rounding.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 <i>[Completed in: Java]</i>
