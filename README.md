@@ -70,6 +70,14 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/FahrenheitToCelsius.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Find the sum of (A*B) + C and then find the sum of that sum's digits for each line.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumOfDigits.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 <i>[Completed in: Java]</i>
