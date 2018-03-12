@@ -62,6 +62,14 @@ In cases, when result contains exactly 0.5 as a fraction part, value should be r
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Rounding.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/fahrenheit-celsius">Problem 7</a>: Fahrenheit to Celsius</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You are to write program to convert degrees of Fahrenheit to Celsius.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/FahrenheitToCelsius.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 <i>[Completed in: Java]</i>
