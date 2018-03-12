@@ -25,8 +25,14 @@ You are to find sum of several numbers (more than two).
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumInLoop.java">Solution</a>
 
-<strong><a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem 3</a>: Sums in Loops</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem 3</a>: Sums in Loops</strong><i>[Completed in: Java]</i>
 <BR>
 You will be given several pairs of values and you need to calculate sum for each pair. 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumsInLoop.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/min-of-two">Problem 4</a>: Minimum of Two</strong><i>[Completed in: Java]</i>
+<BR>
+Of two numbers, please, select one with minimum value.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MinimumOfTwo.java">Solution</a>
