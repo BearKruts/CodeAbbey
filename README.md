@@ -18,3 +18,9 @@ Note: These solutions were written in the course of studying the Java.
 You are to add two numbers and tell their sum. 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumAPlusB.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/sum-in-loop">Problem 2</a>: Sum in Loop</strong><i>[Completed in: Java]</i>
+<BR>
+You are to find sum of several numbers (more than two).
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumInLoop.java">Solution</a>
