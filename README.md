@@ -78,3 +78,11 @@ Input data will give you exactly 300 numbers in a single line.
 Answer should contain maximum and minimum of these values, separated by space.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/MaximumOfArray.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You will be given several lines of text - and for each of them you should tell the number of vowels (i.e. letters a, o, u, i, e, y). Note: that y is regarded as vowel for purpose of this task.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/VowelCount.java">Solution</a>
