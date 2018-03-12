@@ -52,3 +52,12 @@ Of two numbers, please, select one with minimum value.
 Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/MinimumOfThree.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Input data will give you exactly 300 numbers in a single line.
+Answer should contain maximum and minimum of these values, separated by space.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MaximumOfArray.java">Solution</a>
