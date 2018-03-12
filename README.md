@@ -24,3 +24,9 @@ You are to add two numbers and tell their sum.
 You are to find sum of several numbers (more than two).
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumInLoop.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem 3</a>: Sums in Loops</strong>
+<BR>
+You will be given several pairs of values and you need to calculate sum for each pair. 
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumsInLoop.java">Solution</a>
