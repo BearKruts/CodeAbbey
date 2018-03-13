@@ -87,6 +87,14 @@ Find the sum of (A*B) + C and then find the sum of that sum's digits for each li
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumOfDigits.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem 13</a>: Weighted sum of digits</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate the weighted sum of digits.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/WeightedSumOfDigits.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 <i>[Completed in: Java]</i>
