@@ -111,6 +111,14 @@ Calculate the weighted sum of digits.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/WeightedSumOfDigits.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/modular-calculator">Problem 14</a>: Modular Calculator</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Find the remainder of the result of all operations applied sequentially (starting with initial number) divided by the last number.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ModularCalculator.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 <i>[Completed in: Java]</i>
