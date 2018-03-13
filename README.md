@@ -19,7 +19,7 @@ Note: These solutions were written in the course of studying the Java.
 <BR>
 You are to add two numbers and tell their sum. 
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumAPlusB.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SumAPlusB.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-in-loop">Problem 2</a>: Sum in Loop</strong>
 <BR>
@@ -27,7 +27,7 @@ You are to add two numbers and tell their sum.
 <BR>
 You are to find sum of several numbers (more than two).
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumInLoop.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SumInLoop.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem 3</a>: Sums in Loops</strong>
 <BR>
@@ -35,7 +35,7 @@ You are to find sum of several numbers (more than two).
 <BR>
 You will be given several pairs of values and you need to calculate sum for each pair. 
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumsInLoop.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SumsInLoop.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/min-of-two">Problem 4</a>: Minimum of Two</strong>
 <BR>
@@ -43,7 +43,7 @@ You will be given several pairs of values and you need to calculate sum for each
 <BR>
 Of two numbers, please, select one with minimum value.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MinimumOfTwo.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MinimumOfTwo.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/min-of-three">Problem 5</a>: Minimum of Three</strong>
 <BR>
@@ -51,7 +51,7 @@ Of two numbers, please, select one with minimum value.
 <BR>
 Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MinimumOfThree.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MinimumOfThree.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/rounding">Problem 6</a>: Rounding</strong>
 <BR>
@@ -60,7 +60,7 @@ Several triplets of numbers are given to you. Your task is to select minimum amo
 There are several pairs of numbers. For each pair you are to divide first by second and return the result, rounded to nearest integer.
 In cases, when result contains exactly 0.5 as a fraction part, value should be rounded up.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Rounding.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Rounding.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/fahrenheit-celsius">Problem 7</a>: Fahrenheit to Celsius</strong>
 <BR>
@@ -68,7 +68,7 @@ In cases, when result contains exactly 0.5 as a fraction part, value should be r
 <BR>
 You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/FahrenheitToCelsius.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/FahrenheitToCelsius.java">Solution</a>
 
 
 <strong><a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem 8</a>: Arithmetic Progression</strong>
@@ -77,7 +77,7 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
 Calculate sums of arithmetic progression.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/ArithmeticProgressions.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArithmeticProgressions.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/triangles">Problem 9</a>: Triangles</strong>
 <BR>
@@ -85,7 +85,7 @@ Calculate sums of arithmetic progression.
 <BR>
 You are given several triplets of values representing lengths of the sides of triangles. You should tell from which triplets it is possible to build triangle and for which it is not.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Triangles.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Triangles.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
@@ -93,7 +93,7 @@ You are given several triplets of values representing lengths of the sides of tr
 <BR>
 Find the sum of (A*B) + C and then find the sum of that sum's digits for each line.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/SumOfDigits.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SumOfDigits.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem 13</a>: Weighted sum of digits</strong>
 <BR>
@@ -101,7 +101,7 @@ Find the sum of (A*B) + C and then find the sum of that sum's digits for each li
 <BR>
 Calculate the weighted sum of digits.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/WeightedSumOfDigits.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/WeightedSumOfDigits.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
@@ -110,7 +110,7 @@ Calculate the weighted sum of digits.
 Input data will give you exactly 300 numbers in a single line.
 Answer should contain maximum and minimum of these values, separated by space.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MaximumOfArray.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MaximumOfArray.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
 <BR>
@@ -118,7 +118,7 @@ Answer should contain maximum and minimum of these values, separated by space.
 <BR>
 You will be given several lines of text - and for each of them you should tell the number of vowels (i.e. letters a, o, u, i, e, y). Note: that y is regarded as vowel for purpose of this task.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/VowelCount.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/VowelCount.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem 28</a>: Body Mass Index</strong>
 <BR>
@@ -126,7 +126,7 @@ You will be given several lines of text - and for each of them you should tell t
 <BR>
 Calculate BMI multiple BMI values and assign whether they are under, normal, over, or obese BMIs.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/BodyMassIndex.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BodyMassIndex.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
@@ -134,4 +134,4 @@ Calculate BMI multiple BMI values and assign whether they are under, normal, ove
 <BR>
 Find the median number of each set of three numbers.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MedianOfThree.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MedianOfThree.java">Solution</a>
