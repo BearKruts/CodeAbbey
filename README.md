@@ -79,6 +79,14 @@ Calculate sums of arithmetic progression.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/ArithmeticProgressions.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/triangles">Problem 9</a>: Triangles</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You are given several triplets of values representing lengths of the sides of triangles. You should tell from which triplets it is possible to build triangle and for which it is not.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Triangles.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
 <i>[Completed in: Java]</i>
