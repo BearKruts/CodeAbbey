@@ -182,6 +182,14 @@ Calculate BMI multiple BMI values and assign whether they are under, normal, ove
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BodyMassIndex.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/sort-with-indexes">Problem 29</a>: Sort with Indexes</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Sort a given array of numbers and then for each value (in non-decreasing order) its initial index should be printed.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SortWithIndexes.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem 30</a>: Reverse String</strong>
 <BR>
 <i>[Completed in: Java]</i>
