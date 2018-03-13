@@ -144,6 +144,15 @@ Calculate BMI multiple BMI values and assign whether they are under, normal, ove
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BodyMassIndex.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem 30</a>: Reverse String</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Reverse the string of text.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ReverseString.java">Solution</a>
+
+
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 <i>[Completed in: Java]</i>
