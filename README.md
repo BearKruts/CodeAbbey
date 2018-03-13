@@ -176,3 +176,11 @@ Find the median number of each set of three numbers.
 Convert values with floating point to one of six integer numbers: from 1 to 6.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DiceRolling.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem 48</a>: Collatz Sequence</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Run each number through the Collatz Sequence and determine how many times it must be processed before it reaches the number "1".
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CollatzSequence.java">Solution</a>
