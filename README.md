@@ -1,5 +1,5 @@
 CodeAbbey_Solutions
-====================
+===================
 
 CodeAbbey problems and the solutions I made for them.
 
@@ -111,6 +111,14 @@ Input data will give you exactly 300 numbers in a single line.
 Answer should contain maximum and minimum of these values, separated by space.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MaximumOfArray.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem 17</a>: Array Checksum</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate the checksum for an array.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayChecksum.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
 <BR>
