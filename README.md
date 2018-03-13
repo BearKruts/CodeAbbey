@@ -95,6 +95,14 @@ Find the sum of (A*B) + C and then find the sum of that sum's digits for each li
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SumOfDigits.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/modulo-and-time-difference">Problem 12</a>: Modulo and time difference</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate the difference in days, hours, minutes, and seconds between two times.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ModuloAndTimeDifference.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem 13</a>: Weighted sum of digits</strong>
 <BR>
 <i>[Completed in: Java]</i>
