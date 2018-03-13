@@ -136,6 +136,14 @@ You will be given several lines of text - and for each of them you should tell t
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/VowelCount.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/array-counters">Problem 21</a>: Array Counters</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Here is an array of length M with numbers in the range 1 ... N, where N is less than or equal to 20. You are to go through it and count how many times each number is encountered.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayCounters.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem 28</a>: Body Mass Index</strong>
 <BR>
 <i>[Completed in: Java]</i>
