@@ -70,6 +70,15 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/FahrenheitToCelsius.java">Solution</a>
 
+
+<strong><a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem 8</a>: Arithmetic Progression</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate sums of arithmetic progression.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/ArithmeticProgressions.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
 <i>[Completed in: Java]</i>
