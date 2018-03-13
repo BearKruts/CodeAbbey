@@ -95,6 +95,14 @@ You will be given several lines of text - and for each of them you should tell t
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/VowelCount.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem 28</a>: Body Mass Index</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate BMI multiple BMI values and assign whether they are under, normal, over, or obese BMIs.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/BodyMassIndex.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 <i>[Completed in: Java]</i>
