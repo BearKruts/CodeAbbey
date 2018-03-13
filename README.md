@@ -94,3 +94,11 @@ Answer should contain maximum and minimum of these values, separated by space.
 You will be given several lines of text - and for each of them you should tell the number of vowels (i.e. letters a, o, u, i, e, y). Note: that y is regarded as vowel for purpose of this task.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/VowelCount.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Find the median number of each set of three numbers.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/MedianOfThree.java">Solution</a>
