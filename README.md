@@ -160,6 +160,12 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayCounters.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem 26</a>: Greatest Common Divisor</strong>
+<BR>
+Find the least common multiplier and greater common divisor for every pair of numbers.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/GreatestCommonDivisor.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem 27</a>: Bubble Sort</strong>
 <BR>
 <i>[Completed in: Java]</i>
