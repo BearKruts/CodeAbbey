@@ -112,6 +112,14 @@ Answer should contain maximum and minimum of these values, separated by space.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MaximumOfArray.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/average-of-array">Problem 16</a>: Average of an array</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You will be given several arrays, for each of which you are to find an average value. 0s do not count. All answers rounded.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/AverageOfAnArray.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem 17</a>: Array Checksum</strong>
 <BR>
 <i>[Completed in: Java]</i>
