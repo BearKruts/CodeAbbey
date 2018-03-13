@@ -160,6 +160,14 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayCounters.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem 27</a>: Bubble Sort</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Use the bubble sort method, then calculate the number of swaps and passes used in the sorting.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BubbleSort.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem 28</a>: Body Mass Index</strong>
 <BR>
 <i>[Completed in: Java]</i>
