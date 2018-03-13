@@ -135,3 +135,11 @@ Calculate BMI multiple BMI values and assign whether they are under, normal, ove
 Find the median number of each set of three numbers.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MedianOfThree.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem 43</a>: Dice Rolling</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Convert values with floating point to one of six integer numbers: from 1 to 6.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DiceRolling.java">Solution</a>
