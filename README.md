@@ -160,6 +160,12 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayCounters.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem 23</a>: Bubble in Array</strong>
+<BR>
+Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BubbleInArray.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem 26</a>: Greatest Common Divisor</strong>
 <BR>
 Find the least common multiplier and greater common divisor for every pair of numbers.
