@@ -228,3 +228,11 @@ Convert values with floating point to one of six integer numbers: from 1 to 6.
 Run each number through the Collatz Sequence and determine how many times it must be processed before it reaches the number "1".
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CollatzSequence.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem 67</a>: Fibonacci Sequence</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You will be given several Fibonacci numbers. Your task is to tell their indices in the sequence.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/FibonacciSequence.java">Solution</a>
