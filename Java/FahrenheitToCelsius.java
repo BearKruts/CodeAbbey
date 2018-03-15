@@ -1,23 +1,24 @@
-/* 
+/**
 *	Problem: Fahrenheit to Celsius
-*	Url: http://www.codeabbey.com/index/task_view/fahrenheit-celsius
+*	URL: http://www.codeabbey.com/index/task_view/fahrenheit-celsius
 *	Autor: Mykhailo Kruts
-*	Date: 12 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class FahrenheitToCelsius {
-	public static void main(String[] args){
-		final double NINE_FIFTHS = (double)5/(double)9;
-		String result = new String();
-		Scanner scan = new Scanner(System.in);
-		int count = scan.nextInt();
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
+		final float NINE_FIFTHS = 5.0f / 9;
+		final int AMOUNT_OF_NUMBERS = reader.nextInt();
 		
-		for(int i = 0; i < count; i++){
-			result += Math.round(NINE_FIFTHS * (scan.nextInt()-32)) + " ";
+		for (int i = 0; i < AMOUNT_OF_NUMBERS; i++) {
+			int celsiusTemperature = Math.round(NINE_FIFTHS * (reader.nextInt() - 32));
+
+			System.out.printf("%d ", celsiusTemperature);
 		}
 
-		System.out.println(result);
+		reader.close();
 	}
 }

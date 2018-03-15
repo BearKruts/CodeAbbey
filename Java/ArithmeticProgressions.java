@@ -1,32 +1,30 @@
-/* 
+/**
 *	Problem: Arithmetic Progressions
-*	Url: http://www.codeabbey.com/index/task_view/arithmetic-progression
+*	URL: http://www.codeabbey.com/index/task_view/arithmetic-progression
 *	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class ArithmeticProgressions {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int count = scan.nextInt();
-		String result = new String();
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
+		final int AMOUNT_OF_PAIRS = reader.nextInt();
 
-		for(int i=0; i<count; i++){
-			scan.nextLine();
-			int total = 0;
-			int a = scan.nextInt();
-			int b = scan.nextInt();
-			int c = scan.nextInt();
+		for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
+			int arithmeticProgressions = 0;
+			int numberOne = reader.nextInt();
+			int numberTwo = reader.nextInt();
+			int numberThree = reader.nextInt();
 
-			for(int x=0; x<c; x++){
-				total += a + (b*x);
+			for (int x = 0; x < numberThree; x++) {
+				arithmeticProgressions += numberOne + (numberTwo * x);
 			}
 
-			result += total + " ";
+			System.out.printf("%d ", arithmeticProgressions);
 		}
 
-		System.out.println(result);
+		reader.close();
 	}
 }

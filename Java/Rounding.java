@@ -1,23 +1,24 @@
-/* 
+/**
 *	Problem: Rounding
-*	Url: http://www.codeabbey.com/index/task_view/rounding
+*	URL: http://www.codeabbey.com/index/task_view/rounding
 *	Autor: Mykhailo Kruts
-*	Date: 12 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class Rounding {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		String result = new String();
-		int count = scan.nextInt();
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
+		final int AMOUNT_OF_PAIRS = reader.nextInt();
 
-		for(int i=0; i< count; i++){
-			scan.nextLine();
-			result += Math.round((double)scan.nextInt()/(double)scan.nextInt()) + " ";
+		for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
+			float resultOfDivision = (float) reader.nextInt() / reader.nextInt();
+			int roundResultOfDivision = Math.round(resultOfDivision);
+
+		    System.out.printf("%d ", roundResultOfDivision);
 		}
 
-		System.out.println(result);
+		reader.close();
 	}
 }

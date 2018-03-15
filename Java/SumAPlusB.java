@@ -1,21 +1,22 @@
-/* 
+/** 
 *	Problem: Sum "A+B"
-*	Url: http://www.codeabbey.com/index/task_view/sum-of-two
+*	URL: http://www.codeabbey.com/index/task_view/sum-of-two
 *	Autor: Mykhailo Kruts
-*	Date: 12 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
-public class SumAPlusB{
-	public static void main(String[] args){
-		int sum = 0;
-		Scanner scan = new Scanner(System.in);
-		
-		while(scan.hasNext()){
-			sum += scan.nextInt();
-		}
+public class SumAPlusB {
+    public static void main(String[] args) {
+        Scanner reader = new Scanner(System.in);
+        int sumOfNumbers = 0;
 
-		System.out.println(sum);
-	}
+        while (reader.hasNextInt()) {
+            sumOfNumbers += reader.nextInt();
+        }
+
+        System.out.println(sumOfNumbers);
+        reader.close();
+    }
 }

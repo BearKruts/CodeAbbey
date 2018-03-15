@@ -1,27 +1,27 @@
-/* 
+/**
 *	Problem: Triangles
-*	Url: http://www.codeabbey.com/index/task_view/triangles
+*	URL: http://www.codeabbey.com/index/task_view/triangles
 *	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class Triangles {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int count = scan.nextInt();
-		String result = new String();
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
+		final int AMOUNT_OF_PAIRS = reader.nextInt();
 
-		for(int i=0; i<count; i++){
-			scan.nextLine();
-			result += isTriangles(scan.nextInt(), scan.nextInt(), scan.nextInt()) + " ";
+		for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
+			int result = isTriangles(reader.nextInt(), reader.nextInt(), reader.nextInt());
+
+			System.out.printf("%d ", result);
 		}
 
-		System.out.println(result);
+		reader.close();
 	}
 
-	public static int isTriangles(int a, int b, int c){
-		return (a+b>c && a+c>b && b+c>a) ? 1 : 0;
+	public static int isTriangles(int a, int b, int c) {
+		return ((a + b > c) && (a + c > b) && (b + c > a)) ? 1 : 0;
 	}
 }

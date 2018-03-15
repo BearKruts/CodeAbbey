@@ -1,33 +1,34 @@
-/* 
+/**
 *	Problem: Weighted sum of digits
-*	Url: http://www.codeabbey.com/index/task_view/weighted-sum-of-digits
+*	URL: http://www.codeabbey.com/index/task_view/weighted-sum-of-digits
 *	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+*	Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class WeightedSumOfDigits {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int count = scan.nextInt();
-		String result = new String();
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
+        final int AMOUNT_OF_NUMBERS = reader.nextInt();
 
-		for(int i=0; i<count; i++){
-			result += weightedSumOfDigits(scan.nextInt()) + " ";
+		for (int i = 0; i < AMOUNT_OF_NUMBERS; i++) {
+			int result = weightedSumOfDigits(reader.nextInt());
+
+			System.out.printf("%d ", result);
 		}
 
-		System.out.println(result);
+		reader.close();
 	}
 
-	public static int weightedSumOfDigits(int a){
+	public static int weightedSumOfDigits(int num) {
 		int wsd = 0;
 		int i = 0;
-		String tmp = a+"";
+		String tmp = num + "";
 		
-		for(char element : tmp.toCharArray()){
+		for (char el : tmp.toCharArray()) {
 			i++;
-			wsd += Character.getNumericValue(element) * i;
+			wsd += Character.getNumericValue(el) * i;
 		}
 
 		return wsd;
