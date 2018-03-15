@@ -1,38 +1,43 @@
-/* 
-*	Problem: Sort with Indexes
-*	Url: http://www.codeabbey.com/index/task_view/sort-with-indexes
-*	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+/**
+*    Problem: Sort with Indexes
+*    URL: http://www.codeabbey.com/index/task_view/sort-with-indexes
+*    Autor: Mykhailo Kruts
+*    Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class SortWithIndexes {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int[] arr = new int[scan.nextInt()];
-		
-		for(int i = 0; i < arr.length; i++) 
-			arr[i] = scan.nextInt();
+    public static void main (String[] args) {
+        Scanner reader = new Scanner(System.in);
+        int[] numbersOf = new int[reader.nextInt()];
+        
+        for (int i = 0; i < numbersOf.length; i++) {
+            numbersOf[i] = reader.nextInt();
+        }
 
-		int[] arrN = arr.clone();
+        int[] numbersOfClone = numbersOf.clone();
 
-		for(int i = 0; i < arr.length; i++){
-			int tmp;
-			for(int k = 0; k < arr.length-1; k++){
-				if(arr[k] > arr[k+1]){
-					tmp = arr[k];
-					arr[k] = arr[k+1];
-					arr[k+1] = tmp;
-				}
-			}
-		}
+        for (int i = 0; i < numbersOf.length; i++){
+            int numberTemp;
 
-		for(int i = 0; i < arr.length; i++){
-			for(int k = 0; k < arr.length; k++){
-				if(arr[i] == arrN [k]) System.out.printf("%s ", k+1);
-			}
+            for(int j = 0; j < numbersOf.length-1; j++){
+                if(numbersOf[j] > numbersOf[j + 1]){
+                    numberTemp = numbersOf[j];
+                    numbersOf[j] = numbersOf[j + 1];
+                    numbersOf[j + 1] = numberTemp;
+                }
+            }
+        }
 
-		}
-	}
+        for(int i = 0; i < numbersOf.length; i++){
+            for(int j = 0; j < numbersOf.length; j++){
+                if(numbersOf[i] == numbersOfClone[j]){
+                    System.out.printf("%s ", j + 1);
+                }
+            }
+        }
+
+        reader.close();
+    }
 }

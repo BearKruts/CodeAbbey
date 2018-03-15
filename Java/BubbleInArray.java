@@ -1,48 +1,51 @@
-/* 
-*	Problem: Bubble in Array
-*	Url: http://www.codeabbey.com/index/task_view/bubble-in-array
-*	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+/**
+*    Problem: Bubble in Array
+*    URL: http://www.codeabbey.com/index/task_view/bubble-in-array
+*    Autor: Mykhailo Kruts
+*    Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class BubbleInArray {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int[] arr = stringToIntArray(scan.nextLine());
-		final int SEED = 113;
-		final int LIMIT = 10000007;
-		int swaps = 0;
-		long checksum = 0;
+    public static void main (String[] args) {
+        Scanner reader = new Scanner(System.in);
+        final int SEED = 113;
+        final int LIMIT = 10000007;
+        int[] numbersArray = stringToIntArray(reader.nextLine());
+        int swaps = 0;
+        long checksum = 0;
 
-		for (int i = 0; i < arr.length-1; i++) {
-			int x = arr[i];
-			int y = arr[i+1];
-			if (x > y) {
-				arr[i] = y;
-				arr[i + 1] = x;
-				swaps++;
-			}
-		}
+        for (int i = 0; i < numbersArray.length - 1; i++) {
+            int x = numbersArray[i];
+            int y = numbersArray[i + 1];
 
-		for(int i=0; i<arr.length; i++){
-			checksum = (long)(checksum + arr[i]) * SEED;
-			if(i > 2) checksum = checksum % LIMIT;
-		}
+            if (x > y) {
+                numbersArray[i] = y;
+                numbersArray[i + 1] = x;
+                swaps++;
+            }
+        }
 
-		System.out.printf("\n %s %s ", swaps, checksum);
+        for (int i = 0; i < numbersArray.length; i++){
+            checksum = (long) (checksum + numbersArray[i]) * SEED;
+            if (i > 2) checksum %= LIMIT;
+        }
 
-	}
+        System.out.printf("%s %s ", swaps, checksum);
+        reader.close();
+    }
 
-	public static int[] stringToIntArray(String s){
-		String strArr[] = s.split(" ");
-		int intArr[] = new int[strArr.length-1];
-		for (int i = 0; i < strArr.length; i++) {
-			if(Integer.parseInt(strArr[i]) != -1)
-				intArr[i] = Integer.parseInt(strArr[i]);
-		}
-		return intArr;
-	}
+    public static int[] stringToIntArray (String text){
+        String[] stringArray = text.split(" ");
+        int numbersArray[] = new int[stringArray.length - 1];
 
+        for (int i = 0; i < stringArray.length; i++) {
+            if (Integer.parseInt(stringArray[i]) != -1){
+                numbersArray[i] = Integer.parseInt(stringArray[i]);
+            }
+        }
+
+        return numbersArray;
+    }
 }

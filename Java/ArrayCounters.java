@@ -1,26 +1,26 @@
-/* 
-*	Problem: Array Counters
-*	Url: http://www.codeabbey.com/index/task_view/array-counters
-*	Autor: Mykhailo Kruts
-*	Date: 13 March 2018
+/**
+*    Problem: Array Counters
+*    URL: http://www.codeabbey.com/index/task_view/array-counters
+*    Autor: Mykhailo Kruts
+*    Date: 15 March 2018
 */
 
 import java.util.Scanner;
 
 public class ArrayCounters {
-	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		int[] num = new int[scan.nextInt()];
-		int[] numCount = new int[scan.nextInt()];
+    public static void main (String[] args) {
+        Scanner reader = new Scanner(System.in);
+        final int AMOUNT_OF_NUMBERS = reader.nextInt();
+        int[] numberOfDigits = new int[reader.nextInt()];
 
-		for(int i=0; i<num.length; i++){
-			num[i] = scan.nextInt();
-			numCount[num[i]-1] += 1;
-		}
+        for (int i = 0; i < AMOUNT_OF_NUMBERS; i++) {
+            numberOfDigits[reader.nextInt() - 1] += 1;
+        }
 
-		for(int el : numCount){
-			System.out.print(el+" ");
-		}
+        for (int el : numberOfDigits) {
+            System.out.printf("%d ", el);
+        }
 
-	}
+        reader.close();
+    }
 }
