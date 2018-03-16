@@ -230,7 +230,7 @@ Calculate who will be the survivor given the amount of participants and the divi
 <BR>
 Programming of Binary Search is the common task since it is used for searching through sorted arrays as well as for solving math equations.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BinarySearch.Java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BinarySearch.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
