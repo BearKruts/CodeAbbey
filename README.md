@@ -162,11 +162,23 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 
 <strong><a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem 23</a>: Bubble in Array</strong>
 <BR>
+<i>[Completed in: Java]</i>
+<BR>
 Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BubbleInArray.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem 24</a>: Neumann's Random Generator</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/NeumannsRandomGenerator.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem 26</a>: Greatest Common Divisor</strong>
+<BR>
+<i>[Completed in: Java]</i>
 <BR>
 Find the least common multiplier and greater common divisor for every pair of numbers.
 <BR>
