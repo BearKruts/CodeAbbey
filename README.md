@@ -241,6 +241,14 @@ Run each number through the Collatz Sequence and determine how many times it mus
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CollatzSequence.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Return a list of temperatures by replacing each value with the average of it and the two beside it to provide a smooth final report.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SmoothingTheWeather.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem 67</a>: Fibonacci Sequence</strong>
 <BR>
 <i>[Completed in: Java]</i>
