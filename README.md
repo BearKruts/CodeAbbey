@@ -263,3 +263,11 @@ Return a list of temperatures by replacing each value with the average of it and
 You will be given several Fibonacci numbers. Your task is to tell their indices in the sequence.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/FibonacciSequence.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/bit-count">Problem 81</a>: Bit Count</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Count the amount of non-zero bits in all given values.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BitCount.java">Solution</a>
