@@ -87,6 +87,15 @@ You are given several triplets of values representing lengths of the sides of tr
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Triangles.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/linear-function">Problem 10</a> Linear Function</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Your task is to determine a and b by two points, belonging to the function.
+I.e. you are told two pairs of values (x1, y1), (x2, y2) which satisfy the function equation - and you should restore the equation itself.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/LinearFunction.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
 <i>[Completed in: Java]</i>
