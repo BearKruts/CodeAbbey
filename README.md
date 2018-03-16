@@ -216,6 +216,13 @@ Reverse the string of text.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ReverseString.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem 32</a>: Josephus Problem</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate who will be the survivor given the amount of participants and the dividing factor chosen for the Josephus problem.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/JosephusProblem.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
