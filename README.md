@@ -278,3 +278,11 @@ You will be given several Fibonacci numbers. Your task is to tell their indices 
 Count the amount of non-zero bits in all given values.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BitCount.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 128</a>: Combinations Counting</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Find the amount of possible combinations with all test cases.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CombinationsCounting.java">Solution</a>
