@@ -153,6 +153,14 @@ Calculate the checksum for an array.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayChecksum.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/square-root">Problem 18</a>: Square Root</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Write a program using Heron's method to generate square roots within at least 1e-7 = 0.0000001 of accurancy.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SquareRoot.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
 <BR>
 <i>[Completed in: Java]</i>
