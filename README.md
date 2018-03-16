@@ -224,6 +224,14 @@ Calculate who will be the survivor given the amount of participants and the divi
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/JosephusProblem.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/binary-search">Problem 34</a>: Binary Search</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Programming of Binary Search is the common task since it is used for searching through sorted arrays as well as for solving math equations.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BinarySearch.Java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 <i>[Completed in: Java]</i>
