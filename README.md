@@ -256,6 +256,13 @@ Return a list of temperatures by replacing each value with the average of it and
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SmoothingTheWeather.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem 61</a>: Prime Numbers Generation</strong>
+<BR>
+Generate an array of prime numbers and then find the nth prime numbers of given numbers.
+EX: *7 1 199999 4* input should return the output: *17 2 2750131 7*
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/PrimeNumbersGeneration.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem 67</a>: Fibonacci Sequence</strong>
 <BR>
 <i>[Completed in: Java]</i>
