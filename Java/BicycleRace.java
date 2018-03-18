@@ -13,7 +13,7 @@ public class BicycleRace {
         final int AMOUNT_OF_PAIRS = reader.nextInt();
 
         for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
-           	double result = distancesBetweenFirstCity(Double.parseDouble(reader.next()), Double.parseDouble(reader.next()), Double.parseDouble(reader.next()));
+            double result = distancesBetweenFirstCity(Double.parseDouble(reader.next()), Double.parseDouble(reader.next()), Double.parseDouble(reader.next()));
 
             System.out.printf("%f ", result);
         }
@@ -22,7 +22,7 @@ public class BicycleRace {
     }
 
     public static double distancesBetweenFirstCity (double distance, double speedFirstBicyclist, double speedSecondBicyclist) {
-    	double estimatedTimeOfArrivala = distance / (speedFirstBicyclist + speedSecondBicyclist);
+        double estimatedTimeOfArrivala = distance / (speedFirstBicyclist + speedSecondBicyclist);
 
         return estimatedTimeOfArrivala * speedFirstBicyclist;
     }
