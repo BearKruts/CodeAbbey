@@ -17,7 +17,7 @@ public class CaesarShiftCipher {
 
         for (int i = 0; i < AMOUNT_OF_LINES; i++) {
             for (char el : reader.nextLine().toCharArray()) {
-            	System.out.printf("%s", Character.isLetter(el) ? caesarShiftCipher (Character.toString(el), STEP) : el);
+                System.out.printf("%s", Character.isLetter(el) ? caesarShiftCipher (Character.toString(el), STEP) : el);
             }
 
             System.out.print(" ");
@@ -26,24 +26,28 @@ public class CaesarShiftCipher {
         reader.close();
     }
 
- 	public static String caesarShiftCipher (String el, int k) {
- 		String[] letters = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
- 		String[] lettersCaesar = new String[26];
- 		int index;
+     public static String caesarShiftCipher (String el, int k) {
+        String[] letters = { "A", "B", "C", "D", "E",
+                             "F", "G", "H", "I", "J",
+                             "K", "L", "M", "N", "O",
+                             "P", "Q", "R", "S", "T",
+                             "U", "V", "W", "X", "Y", 
+                             "Z" };
+        String[] lettersCaesar = new String[26];
+        int index;
 
- 		for (int i = 0; i < 26; i++){
- 			int indexCaesar = i + k;
+        for (int i = 0; i < 26; i++){
+            int indexCaesar = i + k;
 
- 			if(indexCaesar > 25){
- 				indexCaesar = Math.abs(26 - indexCaesar);
- 			}
+            if(indexCaesar > 25){
+                indexCaesar = Math.abs(26 - indexCaesar);
+            }
 
- 			lettersCaesar[i] = letters[indexCaesar];
+            lettersCaesar[i] = letters[indexCaesar];
+        }
 
- 		}
+        index = Arrays.asList(lettersCaesar).indexOf(el);
 
- 		index = Arrays.asList(lettersCaesar).indexOf(el);
-
- 		return letters[index];
- 	}
+        return letters[index];
+     }
 }
