@@ -289,6 +289,14 @@ Convert values with floating point to one of six integer numbers: from 1 to 6.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DiceRolling.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/double-dice-roll">Problem 44</a>: Double Dice Roll</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Convert dice roll values of 0 to 2,000,000,000 to the 1-6 range and then add them together.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DoubleDiceRoll.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem 48</a>: Collatz Sequence</strong>
 <BR>
 <i>[Completed in: Java]</i>
