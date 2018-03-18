@@ -15,14 +15,14 @@ public class LinearCongruentialGenerator {
         for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
             int xNext = linearCongruentialGenerator(reader.nextInt(), reader.nextInt(), reader.nextInt(), reader.nextInt(), reader.nextInt());
 
-           	System.out.printf("%d ", xNext);
+            System.out.printf("%d ", xNext);
         }
         
         reader.close();
     }
 
     public static int linearCongruentialGenerator (int a, int c, int m, int x, int n) {
-		for (int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++){
             x = (a * x + c) % m;
         }
 
