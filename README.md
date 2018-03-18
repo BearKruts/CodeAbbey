@@ -193,6 +193,13 @@ You will be given initial numbers for several sequences. For each of them report
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/NeumannsRandomGenerator.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/linear-congruential-generator">Problem 25</a>: Linear Congruential Generator</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Generate the Nth number for each set of input ran through the Linear Congruential Generator.
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/LinearCongruentialGenerator.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem 26</a>: Greatest Common Divisor</strong>
 <BR>
 <i>[Completed in: Java]</i>
