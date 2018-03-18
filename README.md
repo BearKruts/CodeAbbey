@@ -161,6 +161,14 @@ Write a program using Heron's method to generate square roots within at least 1e
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SquareRoot.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/matching-brackets">Problem 19</a>: Matching Brackets</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Check a series of strings and return for each string if all brackets within have been used in the correct sequence.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MatchingBrackets.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
 <BR>
 <i>[Completed in: Java]</i>
