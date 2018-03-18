@@ -305,6 +305,12 @@ Convert dice roll values of 0 to 2,000,000,000 to the 1-6 range and then add the
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DoubleDiceRoll.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem 47</a>: Ceasar Shift Cipher</strong>
+<BR>
+Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt option for fun.)
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CaesarShiftCipher.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem 48</a>: Collatz Sequence</strong>
 <BR>
 <i>[Completed in: Java]</i>
