@@ -273,6 +273,15 @@ Run each number through the Collatz Sequence and determine how many times it mus
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CollatzSequence.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/palindromes">Problem 50</a>: Palindromes</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Your goal in this programming exercise is to determine, whether the phrase represents a palindrome or not.
+Note: Spaces, capitalization, and punctuations are to be ignored.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Palindromes.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
 <BR>
 <i>[Completed in: Java]</i>
