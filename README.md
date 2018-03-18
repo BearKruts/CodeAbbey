@@ -327,7 +327,7 @@ You will be given several Fibonacci numbers. Your task is to tell their indices 
 <BR>
 You will be given the distance between cities S (in kilometers) and speed values for two bicyclists (A and B in kilometers per hour). Your task is to find their meeting point (its distance from the first of cities).
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Bicycle Race">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BicycleRace.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/bit-count">Problem 81</a>: Bit Count</strong>
 <BR>
