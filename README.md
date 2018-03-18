@@ -265,6 +265,14 @@ Programming of Binary Search is the common task since it is used for searching t
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BinarySearch.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/savings-calculator">Problem 35</a>: Savings Calculator</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Calculate how many years it will take to reach each monetary goal using a start amount, end amount, and interest rate.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SavingsCalculator.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 <i>[Completed in: Java]</i>
