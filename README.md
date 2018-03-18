@@ -233,6 +233,14 @@ Reverse the string of text.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ReverseString.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/rotate-string">Problem 31</a>: Rotate String</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Rotate string by K characters means to cut these characters from the beginning and transfer them to the end. If K is negative, characters, on contrary should be transferred from the end to the beginning.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/RotateString.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem 32</a>: Josephus Problem</strong>
 <BR>
 <i>[Completed in: Java]</i>
