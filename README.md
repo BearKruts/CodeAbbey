@@ -290,6 +290,14 @@ Note: Spaces, capitalization, and punctuations are to be ignored.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/Palindromes.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/pythagorean-theorem">Problem 52</a>: Pythagorean Theorem</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Determine if each triangle is right, acute, or obtuse.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/PythagoreanTheorem.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
 <BR>
 <i>[Completed in: Java]</i>
