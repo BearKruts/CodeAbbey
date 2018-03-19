@@ -272,6 +272,14 @@ Calculate who will be the survivor given the amount of participants and the divi
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/JosephusProblem.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/parity-control">Problem 33</a>: Parity Control</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+We are given the message in this protected encoding. Our task is to check each letter and remove those which are corrupted. Others should be converted to normal ASCII and printed as characters.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ParityControl.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/binary-search">Problem 34</a>: Binary Search</strong>
 <BR>
 <i>[Completed in: Java]</i>
