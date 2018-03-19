@@ -184,6 +184,14 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/ArrayCounters.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/two-printers">Problem 22</a>: Two Printers</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Using two printers working together that print at different speeds, determine the shortest amount of time required to print a document. Note: All pages have to be completely printed. 2 printers printing at 1 page per second make 5 pages in 3 seconds, not 2.5 seconds.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/TwoPrinters.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem 23</a>: Bubble in Array</strong>
 <BR>
 <i>[Completed in: Java]</i>
