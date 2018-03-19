@@ -13,21 +13,21 @@ public class RockPaperScissors {
         final int AMOUNT_OF_PAIRS = Integer.parseInt(reader.nextLine());
 
         for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
-        	int[] player = {0, 0};
+            int[] player = {0, 0};
 
             for (String el : reader.nextLine().split(" ")) {
-            	switch (el) {
-            		case "RS":
-            		case "PR":
-            		case "SP":
-            			player[0]++;
-            			break;
-            		case "SR":
-            		case "RP":
-            		case "PS":
-            			player[1]++;
-            			break;
-            	}
+                switch (el) {
+                    case "RS":
+                    case "PR":
+                    case "SP":
+                        player[0]++;
+                        break;
+                    case "SR":
+                    case "RP":
+                    case "PS":
+                        player[1]++;
+                        break;
+                }
             }
            
             System.out.printf("%d ", (player[0] > player[1]) ? 1 : 2);
