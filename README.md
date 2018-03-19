@@ -318,6 +318,15 @@ Run each number through the Collatz Sequence and determine how many times it mus
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CollatzSequence.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/rock-paper-scissors">Problem 49</a>: Rock Paper Scissors</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You will be given several records of played R.P.S. games. You are to tell for each of them who of players won.
+Note: They specified there would be no ties so I didn't add in a "tie game" ending.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/RockPaperScissors.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/palindromes">Problem 50</a>: Palindromes</strong>
 <BR>
 <i>[Completed in: Java]</i>
