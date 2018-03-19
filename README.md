@@ -341,7 +341,7 @@ Determine if each triangle is right, acute, or obtuse.
 <BR>
 Sort through hundreds of words and print out the list of repeated words in alphabetical order.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MatchingWordss.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MatchingWords.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
 <BR>
