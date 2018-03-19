@@ -70,7 +70,6 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/FahrenheitToCelsius.java">Solution</a>
 
-
 <strong><a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem 8</a>: Arithmetic Progression</strong>
 <BR>
 <i>[Completed in: Java]</i>
@@ -335,6 +334,14 @@ Note: Spaces, capitalization, and punctuations are to be ignored.
 Determine if each triangle is right, acute, or obtuse.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/PythagoreanTheorem.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/matching-words">Problem 55</a>: Matching Words</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Sort through hundreds of words and print out the list of repeated words in alphabetical order.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MatchingWordss.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
 <BR>
