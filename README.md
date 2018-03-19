@@ -399,6 +399,14 @@ Count the amount of non-zero bits in all given values.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BitCount.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/fools-day-2014">Problem 94</a>: Fool's Day 2014</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Create the solving algorithm with only a set of test data. (No problem description)
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/FoolsDay2014.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/triangle-area">Problem 104</a>: Triangle Area</strong>
 <BR>
 <i>[Completed in: Java]</i>
