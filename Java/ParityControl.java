@@ -13,21 +13,21 @@ public class ParityControl {
         final String[] ASCII_CODE_NUMBERS = reader.nextLine().split(" ");
 
         for (String el : ASCII_CODE_NUMBERS){
-        	int number = Integer.parseInt(el);
-			char letter;
+            int number = Integer.parseInt(el);
+            char letter;
             
             if (isMultipleOfTwoBits(number)) continue;
             letter = getLetter(number);
-        	System.out.print(letter);
+            System.out.print(letter);
         }
 
         reader.close();
     }
 
     public static char getLetter (int num) {
-    	num %= 128;
+        num %= 128;
 
-    	return (char) num;
+        return (char) num;
     }
 
     public static boolean isMultipleOfTwoBits (int num) {
