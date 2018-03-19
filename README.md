@@ -374,7 +374,7 @@ Use a number to determine the suit and name of each card.
 <BR>
 Record the number of exactly matching (number and position) numbers and numbers that are correct but in the wrong position and then return the amounts for each number in the data set.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BullsAndCrows.java">Solution</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BullsAndCows.java">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem 61</a>: Prime Numbers Generation</strong>
 <BR>
