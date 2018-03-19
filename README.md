@@ -304,6 +304,14 @@ Find the median number of each set of three numbers.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/MedianOfThree.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/blackjack-counting">Problem 42</a>: Blackjack Counting</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Determine the best value of each Blackjack hand.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BlackjackCounting.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem 43</a>: Dice Rolling</strong>
 <BR>
 <i>[Completed in: Java]</i>
