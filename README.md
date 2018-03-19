@@ -368,6 +368,14 @@ Use a number to determine the suit and name of each card.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CardNames.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/bulls-and-cows">Problem 59</a>: Bulls and Crows</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Record the number of exactly matching (number and position) numbers and numbers that are correct but in the wrong position and then return the amounts for each number in the data set.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BullsAndCrows.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem 61</a>: Prime Numbers Generation</strong>
 <BR>
 Generate an array of prime numbers and then find the nth prime numbers of given numbers.
