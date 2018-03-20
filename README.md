@@ -376,6 +376,14 @@ Determine if each triangle is right, acute, or obtuse.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/PythagoreanTheorem.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/king-and-queen">Problem 53</a>: King and Queen</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Programming of game playing algorithms, like Chess.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/KingAndQueen.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/matching-words">Problem 55</a>: Matching Words</strong>
 <BR>
 <i>[Completed in: Java]</i>
