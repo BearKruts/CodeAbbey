@@ -336,6 +336,14 @@ Convert dice roll values of 0 to 2,000,000,000 to the 1-6 range and then add the
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/DoubleDiceRoll.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/cards-shuffling">Problem 45</a>: Cards Shuffling</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Perform the shuffling and print the new order of cards as an answer.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CardsShuffling.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem 47</a>: Ceasar Shift Cipher</strong>
 <BR>
 Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt option for fun.)
