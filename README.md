@@ -344,6 +344,12 @@ Perform the shuffling and print the new order of cards as an answer.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CardsShuffling.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/tic-tac-toe">Problem 46</a>: Tic-Tac-Toe</strong>
+<BR>
+Determine the winning turn in each game of Tic-Tac-Toe (or if it resulted in a draw)
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/TicTacToe.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem 47</a>: Ceasar Shift Cipher</strong>
 <BR>
 Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt option for fun.)
