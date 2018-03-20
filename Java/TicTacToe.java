@@ -14,41 +14,41 @@ public class TicTacToe {
         final int AMOUNT_OF_PAIRS = Integer.parseInt(reader.nextLine());
 
         for (int i = 0; i < AMOUNT_OF_PAIRS; i++) {
-        	ArrayList<Integer> progresX = new ArrayList<Integer>();
-        	ArrayList<Integer> progresO = new ArrayList<Integer>();
-        	String[] moves = reader.nextLine().split(" ");
-        	int step = 0;
+            ArrayList<Integer> progresX = new ArrayList<Integer>();
+            ArrayList<Integer> progresO = new ArrayList<Integer>();
+            String[] moves = reader.nextLine().split(" ");
+            int step = 0;
 
-        	for (int j = 0; j < moves.length; j++) {
-        		ArrayList<Integer> progres = (j % 2 == 0) ? progresX : progresO;
-        		progres.add(Integer.parseInt(moves[j]));
+            for (int j = 0; j < moves.length; j++) {
+                ArrayList<Integer> progres = (j % 2 == 0) ? progresX : progresO;
+                progres.add(Integer.parseInt(moves[j]));
 
-        		if(isEndGame (progres)){
-        			step = j + 1;
-        			break;
-        		}
-        	}
-        	
-        	System.out.printf("%d ", step);
+                if(isEndGame (progres)){
+                    step = j + 1;
+                    break;
+                }
+            }
+            
+            System.out.printf("%d ", step);
         }
         
         reader.close();
     }
 
     public static boolean isEndGame (ArrayList<Integer> progres) {
-    	String[] winCombinations = {"123", "456", "789", "147", "258", "369", "159", "357"};
-    	boolean isEndGame = false;
+        String[] winCombinations = {"123", "456", "789", "147", "258", "369", "159", "357"};
+        boolean isEndGame = false;
 
-    	for (String combination : winCombinations) {
-    		int a = progres.indexOf(Character.getNumericValue(combination.charAt(0)));
-    		int b = progres.indexOf(Character.getNumericValue(combination.charAt(1)));
-    		int c = progres.indexOf(Character.getNumericValue(combination.charAt(2)));
+        for (String combination : winCombinations) {
+            int a = progres.indexOf(Character.getNumericValue(combination.charAt(0)));
+            int b = progres.indexOf(Character.getNumericValue(combination.charAt(1)));
+            int c = progres.indexOf(Character.getNumericValue(combination.charAt(2)));
 
-    		if(a >= 0 && b >= 0 && c >= 0) {
-    			isEndGame = true;
-    		}
-    	}
+            if(a >= 0 && b >= 0 && c >= 0) {
+                isEndGame = true;
+            }
+        }
 
-    	return isEndGame;
+        return isEndGame;
     }
 }
