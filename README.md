@@ -296,6 +296,14 @@ Calculate how many years it will take to reach each monetary goal using a start 
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SavingsCalculator.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/quadratic-equation">Problem 38</a>: Quadratic Equation</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Create a program for solving quadratic equation
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/QuadraticEquation.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 <i>[Completed in: Java]</i>
