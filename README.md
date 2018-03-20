@@ -439,6 +439,14 @@ Being able to calculate area of triangle is quite important since many more comp
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/TriangleArea.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+You are to implement the algorithm described above and print out the index of selected maximum at each pass.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SelectionSort.java">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 128</a>: Combinations Counting</strong>
 <BR>
 <i>[Completed in: Java]</i>
