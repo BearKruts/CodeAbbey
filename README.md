@@ -507,10 +507,18 @@ Find the amount of possible combinations with all test cases.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CombinationsCounting.java">Solution</a>
 
-<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 188</a>: Static Web Page</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 187</a>: Static Web Page</strong>
 <BR>
 <i>[Completed in: Java]</i>
 <BR>
 Now the first task would be just to learn how to register at your chosen hosting, create your site and upload a single file there.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/StaticWebPage.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/basics-of-html">Problem 188</a>: Basics of HTML</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Create and upload HTML file.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BasicsOfHTML.java">Solution</a>
