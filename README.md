@@ -522,3 +522,11 @@ Now the first task would be just to learn how to register at your chosen hosting
 Create and upload HTML file.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/BasicsOfHTML.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/basics-of-html">Problem 189</a>: Dynamic Web Page</strong>
+<BR>
+<i>[Completed in: PHP]</i>
+<BR>
+So you should simply create web-page which generates random values each time it is loaded. To avoid making things too simple we also introduce secret value here - your random numbers should be divisible by this value.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/PHP/DynamicWebPage.php">Solution</a>
