@@ -506,3 +506,11 @@ You are to implement the algorithm described above and print out the index of se
 Find the amount of possible combinations with all test cases.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/CombinationsCounting.java">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 188</a>: Static Web Page</strong>
+<BR>
+<i>[Completed in: Java]</i>
+<BR>
+Now the first task would be just to learn how to register at your chosen hosting, create your site and upload a single file there.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/StaticWebPage.java">Solution</a>
