@@ -11,18 +11,18 @@ import java.io.PrintWriter;
 
 public class StaticWebPage {
     public static void main (String[] args) {
-    	Scanner reader = new Scanner(System.in);
-    	final String TEXT = "Secret value is " + reader.next();
-    	final String fileName = "simple.txt";
+        Scanner reader = new Scanner(System.in);
+        final String TEXT = "Secret value is " + reader.next();
+        final String fileName = "simple.txt";
 
-		try {
-		    PrintWriter writer = new PrintWriter(fileName, "UTF-8");       		 
-			writer.println(TEXT);
-			writer.close();
-		} catch (IOException ex) {
-		  	System.out.println("Error: " + ex);
-		}
+        try {
+            PrintWriter writer = new PrintWriter(fileName, "UTF-8");
+            writer.println(TEXT);
+            writer.close();
+        } catch (IOException ex) {
+            System.out.println("Error: " + ex);
+        }
 
-		reader.close();
+        reader.close();
     }
 }
