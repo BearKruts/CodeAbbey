@@ -505,7 +505,7 @@ Being able to calculate area of triangle is quite important since many more comp
 <BR>
 Print the assigned number in Brainfuck.
 <BR>
-<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/SelectionSort.java">TrickyPrinting.bf</a>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/TrickyPrinting.bf">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
 <BR>
