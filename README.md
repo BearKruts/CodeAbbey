@@ -537,6 +537,14 @@ You are to implement the algorithm described above and print out the index of se
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/SelectionSort.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/sequence-of-squares">Problem 126</a>: Sequence of Squares</strong>
+<BR>
+<i>[Completed in: Brainfuck]</i>
+<BR>
+Printing squares of all integers from 1 to X.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/SequenceOfSquares.bf">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 128</a>: Combinations Counting</strong>
 <BR>
 <i>[Completed in: Java]</i>
