@@ -507,6 +507,12 @@ Print the assigned number in Brainfuck.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/TrickyPrinting.bf">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/brain-fibo">Problem 119</a>: Brain Fibo</strong>
+<BR>
+<i>[Completed in: Brainfuck]</i>
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/BrainFibo.bf">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
 <BR>
 <i>[Completed in: Java]</i>
