@@ -515,6 +515,14 @@ Print sum of two number in Brainfuck.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/SummingUp.bf">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/divide-by-two">Problem 117</a>: Divide by Two</strong>
+<BR>
+<i>[Completed in: Brainfuck]</i>
+<BR>
+Brainfuck++ program which inputs number and divides it by two.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/DivideByTwo.bf">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/brain-fibo">Problem 119</a>: Brain Fibo</strong>
 <BR>
 <i>[Completed in: Brainfuck]</i>
