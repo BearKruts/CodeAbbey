@@ -499,6 +499,14 @@ Being able to calculate area of triangle is quite important since many more comp
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Java/TriangleArea.java">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/tricky-printing">Problem 114</a>: Tricky Printing</strong>
+<BR>
+<i>[Completed in: Brainfuck]</i>
+<BR>
+Print the assigned number in Brainfuck.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/SelectionSort.java">TrickyPrinting.bf</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
 <BR>
 <i>[Completed in: Java]</i>
