@@ -507,6 +507,14 @@ Print the assigned number in Brainfuck.
 <BR>
 <a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/TrickyPrinting.bf">Solution</a>
 
+<strong><a href="http://www.codeabbey.com/index/task_view/summing-up">Problem 116</a>: Summing Up</strong>
+<BR>
+<i>[Completed in: Brainfuck]</i>
+<BR>
+Print sum of two number in Brainfuck.
+<BR>
+<a href="https://github.com/BearKruts/CodeAbbey/blob/master/Brainfuck/SummingUp.bf">Solution</a>
+
 <strong><a href="http://www.codeabbey.com/index/task_view/brain-fibo">Problem 119</a>: Brain Fibo</strong>
 <BR>
 <i>[Completed in: Brainfuck]</i>
